@@ -5,18 +5,18 @@ I recently graduated from 🎓 **Rutgers University** with a degree in Computer 
 
 ---
 
-### 🎯 What I'm Up to Lately
+### 💡 What I'm Up to Lately
 
 - 📺 Learning the ins and outs of **media streaming** at AWS  
 - 🚀 Helping customers optimize their **CloudFront distributions**  
 - 🛠️ Tinkering with **Lambda@Edge** and AWS **Media Services**  
-- 🧪 Building fun side projects with **React** and full **microservice AWS cloud architecture**  
+- 🧱 Building fun side projects with **React** and full **microservice AWS cloud architecture**  
 - 🧠 Exploring scaling patterns and **data-intensive systems**
 
 ---
 
-### 🤝 Let's Connect!
+###  🤗 Let's Connect!
 
-- ❓ Ask me about **AWS CloudFront** and **media streaming**  
-- 💡 Share your cool **project ideas**  
+- 💬 Ask me about **AWS CloudFront** and **media streaming**  
+- ✨ Share your cool **project ideas**  
 - 🧰 Building small **React apps** to test different **media streaming patterns**
