@@ -17,6 +17,6 @@ I recently graduated from 🎓 **Rutgers University** with a degree in Computer 
 
 ###  🤗 Let's Connect!
 
-- 💬 Ask me about **AWS CloudFront** and **media streaming**  
+- 💬 Ask me about **AWS CloudFront**, **media streaming**, or any other **AWS Service**
 - ✨ Share your cool **project ideas**  
 - 🧰 Building small **React apps** to test different **media streaming patterns**
