@@ -20,3 +20,5 @@ I recently graduated from 🎓 **Rutgers University** with a degree in Computer 
 - 💬 Ask me about **AWS CloudFront**, **media streaming**, or any other **AWS Service**
 - ✨ Share your cool **project ideas**  
 - 🧰 Building small **React apps** to test different **media streaming patterns**
+
+View my personal website here and find my experience and resume: https://launeg.github.io/Laura_Negrin-Portfolio/
